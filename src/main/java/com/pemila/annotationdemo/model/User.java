@@ -1,5 +1,4 @@
-package com.pemila.java_annotation.model;
-
+package com.pemila.annotationdemo.model;
 
 import lombok.Data;
 

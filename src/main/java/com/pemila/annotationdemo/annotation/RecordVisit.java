@@ -1,9 +1,9 @@
-package com.pemila.java_annotation.annotation;
+package com.pemila.annotationdemo.annotation;
 
 import java.lang.annotation.*;
 
 /**
- * 定义为类添加的注解
+ * 定义Class级别的注解
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)
